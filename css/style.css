@@ -8,7 +8,7 @@ body{
     font-family: 'Open Sans', sans-serif;
 	margin:0;
 	padding:0;
-	background:#ffffff;
+
  }
 body a{
 	transition:0.5s all;
@@ -31,9 +31,10 @@ padding:0;
 }
 /*--header--*/
 .banner{
-	background: url('../images/httpssensiseeds.comenfeminized-seeds/pure-power-plant-feminised-xl.jpg') no-repeat 0px 0px;
+	background: url('../images/banner14.jpg') no-repeat 0px 0px;
 	min-height:670px;
-	background-size:cover;
+	background-size:red;
+	 
 }
 .header-top {
   background: #999;
