@@ -3,6 +3,7 @@ Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
+
 body{
     font-family: 'Open Sans', sans-serif;
 	margin:0;
@@ -30,7 +31,7 @@ padding:0;
 }
 /*--header--*/
 .banner{
-	background: url('../images/banner14.jpg') no-repeat 0px 0px;
+	background: url('../images/httpssensiseeds.comenfeminized-seeds/pure-power-plant-feminised-xl.jpg') no-repeat 0px 0px;
 	min-height:670px;
 	background-size:cover;
 }
@@ -126,7 +127,7 @@ a i.google:hover {
   margin: 2em 0 0
 }
 .header {
-  background-color: #E42313;
+  background-color: #F5F5F5;
   color: #fff;
   padding: .3em 0;
 }
@@ -145,7 +146,7 @@ a i.google:hover {
 	padding:0;
 }
 .navbar-default .navbar-nav > li > a{
-	color:#fff;
+	color:	black;
 }
 .navbar {
   min-height: 35px !important;
@@ -155,9 +156,10 @@ a i.google:hover {
   margin: 0 29px !important;
   padding: 0;
   font-size: 1.3em;
+  //font-weight: bold;
 }
 .nav > li > a:hover {
-	color: #000 !important;
+	color: 	#FF4500 !important;
 	  transition: 1s all;
 	  -webkit-transition: 1s all;
 	  -moz-transition: 1s all;
@@ -192,6 +194,7 @@ ul.nav.navbar-nav li a.active {
 /*--boostrap-nav--*/
 /*--index-banner-slider--*/
 /*----*/
+
 .slider {
 	position: relative;
 	text-align: center;
@@ -206,7 +209,7 @@ padding:6.5% 0;
   margin: 0;
   }
 .rslides h3{
-color: #fff;
+color: black;
   font-size: 2em;
   width: 87%;
   margin: 0 auto;
@@ -334,6 +337,11 @@ position: absolute;
 	right: 20px;
 }
 /*--/welcome--*/
+.zahary{
+    margin-left: 540px;
+    margin-top: 100px;
+   
+}
 .index-about {
   padding: 4em 0;
   text-align: center;
@@ -1537,6 +1545,10 @@ background: url(../images/se.png) no-repeat 0px;
 }
 /*--/gallery-page--*/
 /*--contact--*/
+.canabis1{
+   background-size: 100px,100px;
+   background-color: red;
+}
 .contact h3 {
   font-family: 'Niconne', cursive;
   color: #00B198;
@@ -2297,7 +2309,8 @@ background: url(../images/se.png) no-repeat 0px;
 	.copyright {
 	  padding: 1.3em 0;
 	}
-	.contact-content input[type="text"],{
+	.contact-content input[type="text"]
+         {
 	  margin: 2% 0% 0 0;
 	}
 	.contact iframe {
